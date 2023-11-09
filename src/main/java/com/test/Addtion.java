@@ -71,7 +71,7 @@ public class Addtion {
 		                System.out.println("Invalid choice");
 		                break;
 		        }	
-				  }
+				  } 
 	}
 
 }
